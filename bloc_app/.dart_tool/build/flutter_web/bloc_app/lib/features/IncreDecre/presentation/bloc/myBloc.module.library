@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["bloc_app|lib/features/IncreDecre/data/datamodel/counter_type.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async"],"hasMain":false}

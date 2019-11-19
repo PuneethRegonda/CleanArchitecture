@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter|lib/material.dart","bloc_app|lib/features/IncreDecre/presentation/pages/bloc_main_Page.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":true}
