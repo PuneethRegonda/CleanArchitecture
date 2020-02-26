@@ -3,7 +3,7 @@
  
  ### [How to store Data in Device Locally using Flutter ?](/data_storing_flutter)
  
- ### [How to Use BLOC ? ](/bloc_app)
+ ### [How to Use BLoC ? ](/bloc_app)
 
 
  
